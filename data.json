@@ -1,0 +1,52 @@
+[
+  {
+    "id":1,
+    "username": "admin",
+    "password": "admin"
+  },
+  {
+    "id":2,
+    "username": "Abdullah",
+    "password": "Mansoor"
+  },
+  {
+    "id":3,
+    "username": "Talha",
+    "password": "Ahmed"
+  },
+  {
+    "id":4,
+    "username": "Saad",
+    "password": "Rashid"
+  },
+  {
+    "id":5,
+    "username": "Umer",
+    "password": "Farooq"
+  },
+  {
+    "id":6,
+    "username": "Zia",
+    "password": "Hassan"
+  },
+  {
+    "id":7,
+    "username": "Faraz",
+    "password": "Naqvi"
+  },
+  {
+    "id":8,
+    "username": "Syed",
+    "password": "Hussain"
+  },
+  {
+    "id":9,
+    "username": "comsats",
+    "password": "123456"
+  },
+  {
+    "id":10,
+    "username": "mad",
+    "password": "1234567"
+  }
+]
